@@ -1,0 +1,34 @@
+/*任务二*/
+body,ul,p,h1,h2,h3,h4,dl,dd,form,input,textarea,select
+{padding:0px;margin:0px;font-family:arial;}
+img{border:none;}
+a{text-decoration: none;}
+a:hover{text-decoration: underline;}
+#top {background-color: rgb(51,51,51);height: 58px;}
+#content {background-color: rgb(222,222,222);}
+.top_right {float: right;}
+.top_right li {float: left;padding-right: 20px;padding-top: 24px;}
+.top_right a {color: seashell;}
+.top_right .qian {color: rgb(146,139,142);}
+.logo {position: absolute;top: 6px;left: 30px;}
+
+.content {width: 1244px;margin: 24px auto 0;background: url(content_bg.png) repeat-y -1244px 0;}
+.content_top {width: 1244px;background: url(content_bg.png) no-repeat;}
+.content_bottom {width: 1244px;background: url(content_bg.png)no-repeat -2488px bottom;}
+#content  {padding: 5px; }
+.task {width: 1198px;margin: 0 auto;padding-top: 40px;padding-bottom: 30px;line-height: 25px;}
+.two {color: rgb(118,110,114);margin-top: 24px;padding-bottom: 12px;font-size: 18px;}
+.author {margin-top: 12px; padding-bottom: 12px;border-bottom: #e6e6e6 solid 1px;color: #999;font-size: 16px;}
+.lili {list-style:none;padding-left: 20px;}
+.pic_border{ width: 350px;height: 350px; border: 3px solid #000000;padding-top: 10px;padding-bottom: 10px;}
+.border_all {position: relative;top: 26px;left: 60px;} 
+.pic_border p{text-align:center}
+.pic_border img{width: 300px;height: 300px;}
+th{background-color: rgb(51,51,51);color: #ffffff;}
+td{text-align:left;}
+table{width: 1200px;height:300px ;border: 2px black;}
+.tr_last {background-color: darkgray;color: #ffffff;}
+.bottom {width:1244px;position: relative; left: 300px; line-height: 25px; }
+.code {color: #999;font-size: 12px;}
+.body_bottom {background-color: rgb(51,51,51);height: 40px;}
+.body_bottom .di{color: rgb(222,222,222);margin: 0 auto;position: relative;top: 10px; text-align:center;font-family:'Microsoft YaHei';}
